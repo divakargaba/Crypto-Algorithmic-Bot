@@ -1,0 +1,12 @@
+2024-12-29 20:50:59,911 - Starting mock trading session...
+2024-12-29 20:50:59,911 - Mock Buy Order placed for 0.01 of BTC/USDT at price 50000.
+2024-12-29 20:50:59,911 - Buy order successful: {'status': 'success', 'order_id': 'mock_order_id'}
+2024-12-29 20:50:59,911 - Mock Sell Order placed for 0.01 of BTC/USDT at price 51000.
+2024-12-29 20:50:59,911 - Sell order successful: {'status': 'success', 'order_id': 'mock_order_id'}
+2024-12-29 20:50:59,911 - Mock trading session completed.
+2024-12-29 20:52:09,782 - Starting mock trading session...
+2024-12-29 20:52:09,783 - Mock Buy Order placed for 0.01 of BTC/USDT at price 50000.
+2024-12-29 20:52:09,783 - Buy order successful: {'status': 'success', 'order_id': 'mock_order_id'}
+2024-12-29 20:52:09,783 - Mock Sell Order placed for 0.01 of BTC/USDT at price 51000.
+2024-12-29 20:52:09,783 - Sell order successful: {'status': 'success', 'order_id': 'mock_order_id'}
+2024-12-29 20:52:09,783 - Mock trading session completed.
